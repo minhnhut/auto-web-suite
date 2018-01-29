@@ -1,0 +1,3 @@
+OpenUrl "https://www.e-uchina.net"
+Input "#mytextarea" "content"
+Mouse click "#submit"
